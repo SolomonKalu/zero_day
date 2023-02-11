@@ -1,2 +1,2 @@
-Read me on 
+Read me on Vagrant 
 ***
